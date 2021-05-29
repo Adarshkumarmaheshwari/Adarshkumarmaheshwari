@@ -1,6 +1,6 @@
 
 ## Hello Human!
-![Cover GitHub](https://raw.githubusercontent.com/Adarshkumarmaheshwari/Adarshkumarmaheshwari/master/readme%20cover.jpg)
+![Cover GitHub](https://raw.githubusercontent.com/Adarshkumarmaheshwari/Adarshkumarmaheshwari/master/readmecover.jpg)
 
 
 ### I'm Adarsh Kumar Maheshwari from India, currently pursuing Masters of Science in Information Technology. 
